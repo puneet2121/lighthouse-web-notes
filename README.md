@@ -3,4 +3,4 @@
 ##### this is a h5 heading
 ## Summary 
 
-This repository contains all of the notes taken by [Puneet] for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Puneet] https://github.com/puneet2121/lighthouse-web-notes for the Lighthouse Labs Web Development Bootcamp
